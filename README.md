@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @Hayden-Reed
+- 👀 I’m interested in software development and am a cybersecurity major at the University of Cincinnati and am slowly 
+- becoming more interested in the back end launguages that databases and networks use to connect to different nodes. 
+- 🌱 I’m currently learning SQl database launguage and am looking to further my knowledge into JAVA, C#, and C++ and other commonly used launguages within the 
+- Information technology field.
+- 💞️ I’m looking to collaborate on any projects that seem interesting or for any professional work as I am not proficient enough at the moment.
+- I hope to gain work experience within the industry to help further my knowledge and career outlook.
+- 📫 How to reach me, you can reach me at my linkedIN, handshake, and indeed @
+- linkedIN- linkedin.com/in/hayden-reed-222559236
+- -handshake- 
